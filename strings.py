@@ -1,0 +1,10 @@
+s = input("enter a string: ")
+start = input("enter the location: ")
+print("set sr " + start)
+for c in s:
+	print("set a " + str(ord(c.upper())))
+	print("st a")
+	print("add sr 1")
+print("set a 0")
+print("add sr 1")
+input()
